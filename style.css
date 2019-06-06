@@ -1,0 +1,74 @@
+.flex{
+	display: flex;
+}
+.sky_block{
+	padding-top: 35px;
+	padding-left: 50px;
+	height: 100px;
+	background: black;
+	box-sizing: border-box;
+}
+.main{
+	background: grey;
+	height: 392px;
+}
+.but_block{
+	background: black;
+	height: 250px;
+	padding-top: 20px;
+	box-sizing: border-box;
+	padding-left: 50px;
+}
+.block{
+	background: white;
+	border-radius: 20px;
+	width: 600px;
+	height: 300px;
+	margin-left: 140px;
+	margin-top: 45px;
+}
+.block_1{
+	background: white;
+	border-radius: 20px;
+	width: 600px;
+	height: 300px;
+	margin-left: 100px;
+	margin-top: 45px;
+}
+.p{
+	color: white;
+	font-family: Bates Shower;
+	font-weight: 600px;
+	margin-left: 50px;
+	font-size: 15px;
+	text-decoration: none;
+}
+.p1{
+	color: white;
+	font-family: Agency FB;
+	font-weight: 600px;
+	font-size: 20px;
+}
+.secrets_img{
+	width: 580px;
+	height: 275px;
+	margin-left: 10px;
+	margin-top: 13px;
+	border-radius: 15px
+}
+.video{
+	width: 600px;
+	height: 300px;
+}
+.sign{
+	font-family: Arial;
+	color: white;
+	font-size: 20px;
+	font-weight: 600px;
+	text-decoration: none;
+}
+.div{
+	margin-left: 850px;
+	margin-top: 5px
+
+}
